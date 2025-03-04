@@ -3,7 +3,7 @@ export const experienceData = [
         id: 1,
         company: 'Bosch',
         jobtitle: 'Senior Software Engineer',
-        startYear: '06/2023',
+        startYear: '07/2023',
         endYear: 'Present'
     },
     {
